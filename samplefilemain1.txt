@@ -3,3 +3,4 @@ this is samlple file 1
 =======
 hey harsha are u a batman
 >>>>>>> main
+This is stash lecture, change the file main
